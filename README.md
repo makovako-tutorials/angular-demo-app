@@ -1,3 +1,7 @@
+# Intro
+
+This Angular project was created after following [this](https://www.youtube.com/watch?v=Fdf5aTYRW0E) tutorial and is saved on github just for archival purposes, to be a refernce for me in the future.
+
 # AngularDemoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
